@@ -20,11 +20,11 @@ The Department of Homeless Services (nyc.gov/dhs) works with partners to prevent
 
 For individuals unwilling to enter the traditional shelter system Street Homeless Solutions provides an array of services to street homeless individuals to assist them off the street and to address mental health, substance abuse, and other issues. The City contracts with nonprofit providers to operate street Outreach Teams, Drop-In Centers and Safe Havens. Outreach teams work in all five boroughs and the subway with unsheltered individuals living on the streets of New York City.
 
-###About Information Technology Services
+### About Information Technology Services
 
 Information Technology Services (ITS) is DSS’s technology services organization. Its mission is to support the daily, emergent, and long-term needs of both agencies.  ITS creates and enhances the technology infrastructure and computer applications that support HRA and DHS and develops applications, including a variety of client eligibility and recertification systems, case management systems, housing systems, employment/work engagement services, revenue producing computer matches, claiming systems, and personnel systems. 
 
-###About StreetSmart
+### About StreetSmart
 
 StreetSmart is the City’s in-house developed case management system that was built to address the unique business needs of the Outreach providers. StreetSmart has already improved customer service and increased productivity by providing client overview dashboards, search, filtering, and exportable data to generate reports. It also offers robust researching of client details - case management, engagements, placements, health information, and critical incidents. StreetSmart was built in 2016-2017 by a DSS ITS team practicing agile software development and working with a product manager to gather end user requirements in an interactive, ongoing manner, with user-centered design principles articulated by New York City’s Civic Service Design Studio (civicservicedesign.com). StreetSmart has been recognized in publications including WIRED, Mashable, Endgadget, and Government Technology.
 Starting in July, 2019 StreetSmart will be expanded to cover the user needs for Street Homeless Solutions’ other two program areas, Drop-In Centers and Safe Havens. 
